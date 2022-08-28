@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+addToList
+deleteStudent
+findStudent
+inputInFile
+outputFromFile
+outputList
