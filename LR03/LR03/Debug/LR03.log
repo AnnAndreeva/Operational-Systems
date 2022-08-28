@@ -1,0 +1,3 @@
+﻿  LR03.cpp
+C:\Users\Professional\Desktop\Учёба\4 семестр\ОС\LR03\LR03\LR03.cpp(21): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LR03.vcxproj -> C:\Users\Professional\Desktop\Учёба\4 семестр\ОС\LR03\Debug\LR03.exe
